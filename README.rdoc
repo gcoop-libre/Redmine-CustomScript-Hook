@@ -9,12 +9,12 @@ I wrote this Hook based on Redmine Github Hook <https://github.com/koppen/redmin
 == Installation
 
 1. Installing the plugin
-   1. Follow the plugin installation procedure at http://www.redmine.org/wiki/redmine/Plugins.
-   2. Edit app/controllers/custom_script_hook_controller.rb , line 8, change for the location of our script
-   3. Restart your Redmine.
+   1. Follow the plugin installation procedure at http://www.redmine.org/wiki/redmine/Plugins
+   2. Edit app/controllers/custom_script_hook_controller.rb :line 8, change for the location of your script
+   3. Restart your Redmine
    5. POST: "[redmine_installation_url]/custom_script_hook"
 
-That's it. 
+That's it.
 
 == License
 
