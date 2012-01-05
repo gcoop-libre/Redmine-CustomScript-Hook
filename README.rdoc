@@ -18,7 +18,8 @@ That's it.
 
 == License
 
-Copyright (c) 2011 Diego Mascialino
+Copyright (c) 2010 Jakob Skjerning
+Copyright (c) 2012 Diego Mascialino
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
